@@ -1,0 +1,15 @@
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langchain-openai>=0.0.1
+langserve>=0.0.51
+openai>=1.58.1
+python-dotenv>=1.0.0
+qdrant-client>=1.7.0
+fastapi>=0.109.0
+uvicorn>=0.25.0
+pydantic>=2.7.4
+python-multipart>=0.0.6
+langsmith>=0.0.83
+langchain-qdrant>=0.0.3
+sse_starlette>=1.8.2
