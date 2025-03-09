@@ -62,6 +62,7 @@ docker run -p 8000:8000 --env-file .env vademecum-rag
 
 - `/chat`: Main endpoint for the chat interface
 - `/health`: Health check endpoint
+- `/chat/playgroup`: Query endpoint for request information
 
 ## Documentation
 
